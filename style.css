@@ -1,0 +1,43 @@
+body {
+background-color: beige;
+
+}
+
+p {
+border-style: dashed;
+color: blue;
+
+}
+
+h2 {
+padding-left: 40px;
+
+
+}
+
+.dzivnieks { 
+    border-style: double;
+    border-color: blueviolet;
+}
+button #specialbutton{
+background-color: yellowgreen;
+
+
+}
+
+div.full {
+    min-height: 100px;
+    background-color: aqua;
+    display: grid;
+    grid-template-columns: 2fr 2fr 4fr;
+}
+
+div.left {
+    background-color: blueviolet;
+    min-height: 40px;
+}
+
+div.right {
+    background-color:red ;
+    min-height: 40px;
+}
